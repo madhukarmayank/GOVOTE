@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<html>
+	<html len=eng>
 	<head>
 		<title>Admin Login</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
